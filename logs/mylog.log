@@ -278,3 +278,38 @@
 2024-09-23 22:26:51,099 [main] INFO  MyStoreV1 - Entered Email and password
 2024-09-23 22:26:51,902 [main] INFO  MyStoreV1 - Clicked on Signin link.
 2024-09-23 22:26:51,943 [main] INFO  MyStoreV1 - Verify Login - Passed
+2024-09-25 12:01:26,043 [main] INFO  MyStoreV1 - url opened
+2024-09-25 12:01:26,255 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:26,259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:26,261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:26,846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:26,848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:26,849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:26,885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:26,887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:26,889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:26,935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:26,936 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:26,937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:26,972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:26,974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:26,975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:27,011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:27,013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:27,015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:27,048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:27,050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:27,051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:27,082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-25 12:01:27,083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-25 12:01:27,084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-25 12:01:27,129 [main] INFO  MyStoreV1 - Verify Login test execution started....
+2024-09-25 12:01:28,197 [main] INFO  MyStoreV1 - Click on Signin
+2024-09-25 12:01:28,595 [main] INFO  MyStoreV1 - Entered Email and password
+2024-09-25 12:01:29,224 [main] INFO  MyStoreV1 - Clicked on Signin link.
+2024-09-25 12:01:29,520 [main] INFO  MyStoreV1 - Verify Login - Passed
+2024-09-25 12:01:30,503 [main] INFO  MyStoreV1 - Verify Login test execution started....
+2024-09-25 12:01:31,240 [main] INFO  MyStoreV1 - Click on Signin
+2024-09-25 12:01:31,769 [main] INFO  MyStoreV1 - Entered Email and password
+2024-09-25 12:01:32,449 [main] INFO  MyStoreV1 - Clicked on Signin link.
+2024-09-25 12:01:32,497 [main] INFO  MyStoreV1 - Verify Login - Passed
