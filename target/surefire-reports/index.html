@@ -156,11 +156,11 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+&lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;com.mystore.utilities.ExtentReportListener&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot; verbose=&quot;0&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.mystore.testcases.TC_MyAccountPageTest_DataDrivenTesting&quot;/&gt;
     &lt;/classes&gt;
@@ -206,16 +206,16 @@ data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verifyLogin')
 data.setCell(0, 2, 'com.mystore.testcases.TC_MyAccountPageTest_DataDrivenTesting')
-data.setCell(0, 3, 3566);
+data.setCell(0, 3, 4464);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'verifyLogin')
 data.setCell(1, 2, 'com.mystore.testcases.TC_MyAccountPageTest_DataDrivenTesting')
-data.setCell(1, 3, 3075);
+data.setCell(1, 3, 4006);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 6 seconds</span>
+              <span class="suite-total-time">Total running time: 8 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -255,15 +255,15 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verifyLogin(avinash103@gmail.com, password123, Avinash Pradhan)</span>
-                <span class="method-start">9600 ms</span>
+                <span class="method-start">8021 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verifyLogin(avinash103@gmail.com, password123, Avinash Pradhan)</span>
-                <span class="method-start">13198 ms</span>
+                <span class="method-start">12044 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">16278 ms</span>
+                <span class="method-start">16510 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
